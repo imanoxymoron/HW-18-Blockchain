@@ -34,4 +34,4 @@ Using your own wallet to access the network and address on the network. You can 
 
 ![image](https://user-images.githubusercontent.com/72050478/116297041-e24bfc00-a768-11eb-9268-2eb5a1f65375.png)
 
-This allows you to test transactions in our custom blockchain.  
+This allows you to test transactions in our custom blockchain. Congratulations!  You've done a test transaction in a test ether network.  
