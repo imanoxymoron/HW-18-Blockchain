@@ -1,0 +1,58 @@
+client zone more exclude mistake mouse pear primary art throw nasty chalk 
+
+Address #1 in lineup   
+
+0xd67de420e0b23ea469159d1b882eb068b8a66e9c
+
+Private Key For Address #1
+
+0x0f242842407a4ac4ea79f6660727cdf023cf106dbcdd7ddfe942c5170a8685c5
+
+____________________________________________________________________________
+
+Address #2 in lineup
+
+0xba951ca4c37fa127bb8e1a2185489bbb27f6ccec
+
+Private Key For Address #2
+
+0x0cbe91c59dc55f04c7dd9a52e6ec7d3f9f92afcc34aeb656f480ffea1efec405 
+
+
+Address of Node #1
+
+Public address of the key:   0x83A162711f692E8B541E2b58c60D9aC06b46C514
+Path of the secret key file: node1\keystore\UTC--2021-04-27T00-30-25.803731000Z--83a162711f692e8b541e2b58c60d9ac06b46c514
+
+
+Address of Node #2
+
+Public address of the key:   0xa713D9FB65Eb4EBf6A29796F94c91f295c659f4b
+Path of the secret key file: node2\keystore\UTC--2021-04-27T00-31-47.620225100Z--a713d9fb65eb4ebf6a29796f94c91f295c659f4b
+
+
+1095jy
+
+
+enode://4bd9103d6afdb2ee7ffea5eac8bca2a178804fdd0d279f813983f7822beb864e39c3a966f6d4a2f8a86cad39f4d72c2c76072c2f6bc19fdce12325c78d3cef5d@127.0.0.1:30303
+enode://4bd9103d6afdb2ee7ffea5eac8bca2a178804fdd0d279f813983f7822beb864e39c3a966f6d4a2f8a86cad39f4d72c2c76072c2f6bc19fdce12325c78d3cef5d@127.0.0.1:30303
+
+./geth --datadir node2 --port 30304 --rpc --bootnodes "enode://4bd9103d6afdb2ee7ffea5eac8bca2a178804fdd0d279f813983f7822beb864e39c3a966f6d4a2f8a86cad39f4d72c2c76072c2f6bc19fdce12325c78d3cef5d@127.0.0.1:30303" --ipcdisable
+
+1994
+
+zbank2
+
+Public address of the key:   0x5c3b023917a57ea33b809Ad36fddD5AAbC24C4CB
+Path of the secret key file: node1\keystore\UTC--2021-04-27T00-57-11.676046300Z--5c3b023917a57ea33b809ad36fddd5aabc24c4cb
+
+
+Public address of the key:   0x02F1CE5c85004AbaE56c7c05f7c750Fb50337a8c
+Path of the secret key file: node2\keystore\UTC--2021-04-27T00-57-29.212038100Z--02f1ce5c85004abae56c7c05f7c750fb50337a8c
+
+
+
+self=enode://61b87e94e6f33577a0b06d1e40e47e819217a27a85697b840d2a046c195f8270f707d1b3a0a68a84215ef42527f0a7206dd5afa63315316af80fcea539e4fd6e@127.0.0.1:30303
+
+
+./geth --datadir node2 --port 30304 --rpc --bootnodes "enode://61b87e94e6f33577a0b06d1e40e47e819217a27a85697b840d2a046c195f8270f707d1b3a0a68a84215ef42527f0a7206dd5afa63315316af80fcea539e4fd6e@127.0.0.1:30303" --ipcdisable
